@@ -16,4 +16,4 @@ What is in this template:
 - Set default styles for:
 	- Heading (H1) **BOLD UPPERCASE** Centered;
 	- Subheading (H2) **Bold** Aligned left;
-	- Sub Subheading (H3) ** *Bold Italic* ** Aligned left.
+	- Sub Subheading (H3) ***Bold Italic*** Aligned left.
